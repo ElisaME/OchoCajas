@@ -1,10 +1,14 @@
 /* Inserta tu CSS aqui */
+body{
+	background-color: #E3CEF6;
+}
 div{
 	width: 100px;
 	height: 100px;
-	border: 2px solid #F78181;
+	border: 2px groove #F78181;
 	margin: 10px;
 	background-color: #04B4AE;
+	border-radius: 5px;
 }
 .cajaGrande{
 	width: 400px;
